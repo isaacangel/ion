@@ -14,11 +14,12 @@ Tarea Catolica Ionic
 2. Clonar el repositorio
     ```
     git clone https://github.com/isaacangel/ion.git
+    descomprimir
     ```
 
 3. Ingresar al directorio de `ApliCASApp`
     ```
-    cd ApliCASApp
+    cd ioniccatotarea-master
     ```
 
 4. Instalar dependencias
